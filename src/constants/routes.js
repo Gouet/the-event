@@ -1,8 +1,9 @@
-export const LANDING = '/';
-export const SIGN_UP = '/signup';
-export const SIGN_IN = '/signin';
-export const HOME = '/home';
-export const ACCOUNT = '/account';
-export const ADMIN = '/admin';
-export const PASSWORD_FORGET = '/pw-forget';
-export const CGU = '/cgu';
+const APP_ROOT = '/the-event-app';
+export const LANDING = APP_ROOT + '/';
+export const SIGN_UP = APP_ROOT + '/signup';
+export const SIGN_IN = APP_ROOT + '/signin';
+export const HOME = APP_ROOT + '/home';
+export const ACCOUNT = APP_ROOT + '/account';
+export const ADMIN = APP_ROOT + '/admin';
+export const PASSWORD_FORGET = APP_ROOT + '/pw-forget';
+export const CGU = APP_ROOT + '/cgu';
