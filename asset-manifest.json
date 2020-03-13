@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/the-event-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/the-event-app/static/js/main.712a7e29.chunk.js",
-    "main.js.map": "/the-event-app/static/js/main.712a7e29.chunk.js.map",
+    "main.js": "/the-event-app/static/js/main.f1431cab.chunk.js",
+    "main.js.map": "/the-event-app/static/js/main.f1431cab.chunk.js.map",
     "runtime-main.js": "/the-event-app/static/js/runtime-main.fd73353e.js",
     "runtime-main.js.map": "/the-event-app/static/js/runtime-main.fd73353e.js.map",
-    "static/js/2.60ea6357.chunk.js": "/the-event-app/static/js/2.60ea6357.chunk.js",
-    "static/js/2.60ea6357.chunk.js.map": "/the-event-app/static/js/2.60ea6357.chunk.js.map",
+    "static/js/2.62679b7c.chunk.js": "/the-event-app/static/js/2.62679b7c.chunk.js",
+    "static/js/2.62679b7c.chunk.js.map": "/the-event-app/static/js/2.62679b7c.chunk.js.map",
     "index.html": "/the-event-app/index.html",
-    "precache-manifest.c939801e48ae2c388dad94a66d847946.js": "/the-event-app/precache-manifest.c939801e48ae2c388dad94a66d847946.js",
+    "precache-manifest.2a4fd95e72dab71acf9d26e5597b1fec.js": "/the-event-app/precache-manifest.2a4fd95e72dab71acf9d26e5597b1fec.js",
     "service-worker.js": "/the-event-app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/the-event-app/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.60ea6357.chunk.js.LICENSE.txt": "/the-event-app/static/js/2.60ea6357.chunk.js.LICENSE.txt"
+    "static/js/2.62679b7c.chunk.js.LICENSE.txt": "/the-event-app/static/js/2.62679b7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd73353e.js",
-    "static/js/2.60ea6357.chunk.js",
+    "static/js/2.62679b7c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.712a7e29.chunk.js"
+    "static/js/main.f1431cab.chunk.js"
   ]
 }
