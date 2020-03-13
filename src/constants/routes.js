@@ -1,4 +1,4 @@
-const APP_ROOT = '/the-event-app';
+const APP_ROOT = '';
 export const LANDING = APP_ROOT + '/';
 export const SIGN_UP = APP_ROOT + '/signup';
 export const SIGN_IN = APP_ROOT + '/signin';
