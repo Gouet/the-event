@@ -1,6 +1,6 @@
 {
-  "homepage": "http://gouet.github.io/theevent",
-  "name": "theevent",
+  "homepage": "http://gouet.github.io/the-event-app",
+  "name": "the-event",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
